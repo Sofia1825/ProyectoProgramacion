@@ -1,3 +1,4 @@
+# "Piloto con interfaz base"
 import tkinter as tk
 from tkinter import messagebox, simpledialog
 from datetime import datetime
