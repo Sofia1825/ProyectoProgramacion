@@ -1,4 +1,4 @@
-# Mi Botella de Agua (versión con matrices)
+# Mi Botella de Agua (versión con matrices) sin interfaz
 # Proyecto Final - Programación I
 
 from datetime import datetime
